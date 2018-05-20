@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('activity/show', 'ActivityController@show');
+
+Route::post('activity/store', 'ActivityController@store');
+
+Route::get('activity/image', 'ActivityController@image');
