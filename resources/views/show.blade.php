@@ -21,5 +21,8 @@
             <button type="submit" class="btn btn-success btn-block">查看您的复联专属人物</button>
         </form>
     </div>
+    <div style="display: none">
+        <script src="https://s22.cnzz.com/z_stat.php?id=1273742257&web_id=1273742257" language="JavaScript"></script>
+    </div>
 </body>
 </html>

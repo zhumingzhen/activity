@@ -14,5 +14,8 @@
     <img src="{{ asset($return_img_path) }}" style="width: 100%; margin: 20px auto" alt="">
     <button class="btn btn-success btn-block">↑↑↑↑长按图片保存分享↑↑↑↑</button>
 </div>
+<div style="display: none">
+    <script src="https://s22.cnzz.com/z_stat.php?id=1273742257&web_id=1273742257" language="JavaScript"></script>
+</div>
 </body>
 </html>
